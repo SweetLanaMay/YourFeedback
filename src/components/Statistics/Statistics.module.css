@@ -1,0 +1,27 @@
+.statisticsList {
+    display: flex;
+    gap: 15px;
+    justify-content: center;
+}
+
+.statisticsItem {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+    width: 150px;
+    height: 80px;
+    font-size: 16px;
+    font-weight: bold;
+    font-style: italic;
+    background-color: #282ed0;
+    color: #ffffff;
+    border-radius: 5px;
+    box-shadow: 2px 4px 6px  #c0bfc1;
+}
+
+.statisticsQuantity {
+    font-size: 18px;
+    margin-left: 10px;
+    color: #f22525;
+}

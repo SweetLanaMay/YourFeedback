@@ -1,0 +1,10 @@
+.container {
+    width: 800px;
+    padding: 20px;
+    text-align: center;
+    background-color: #edf2f2;
+}
+.feedbackTitle {
+    margin: 0;
+    margin-bottom: 20px;
+}
